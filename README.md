@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Developer<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning bash scripting, Angular<br>
+🔭 I’m currently working as a Full Stack Developer<br>👯 I’m looking to collaborate on Web Development projects<br>🌱 I’m currently learning bash scripting, Angular<br>
 
 
 ## 🌐 Socials:
